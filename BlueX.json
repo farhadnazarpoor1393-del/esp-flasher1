@@ -5,8 +5,9 @@
     {
       "chipFamily": "ESP32",
       "parts": [
-        { "path": "BlueX.ino.bin", "offset": 65536 }
+        { "path": "BlueX.bin", "offset": 0 }
       ]
     }
   ]
 }
+
